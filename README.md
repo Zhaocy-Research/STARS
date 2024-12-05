@@ -5,7 +5,7 @@ We presented STARS (Spatial Transcriptomics across Any Resolution for Single Cel
 
 Framework
 
-![image](https://github.com/Zhaocy-Research/TransformerST/blob/main/TransformerST-new.png)
+![image](https://github.com/Zhaocy-Research/STARS/blob/main/STARS.png)
 
 The code is licensed under the MIT license.
 
