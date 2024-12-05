@@ -40,7 +40,7 @@ umap-learn
 (3) conda activate STARS  
 (4) pip install -r requirements.txt
 
-TransformeST could also be installed via pip, pip install STARS
+STARS could also be installed via pip, pip install STARS
 
 **2. Instructions: Demo on mouse lung data.**  
 
