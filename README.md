@@ -43,5 +43,5 @@ umap-learn
 STARS could also be installed via pip, pip install STARS
 
 **2. Instructions: Demo on mouse lung data.**  
-We provide an example notebook, visium_lung_06.ipynb, to implement the experimental results from the paper.
+We provide an example notebook, visium_06.ipynb, to implement the experimental results from the paper.
 
