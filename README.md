@@ -43,11 +43,11 @@ STARS can be installed via pip using the following command:
 
 ```bash
 pip install stars-omics
-
+```
 After installation, you can import the package in Python as:
-
+```
 import stars_omics
-
+```
 
 **2. Instructions: Demo on mouse lung data.**  
 We provide an example notebook, visium_06.ipynb, to implement the experimental results from the paper.
