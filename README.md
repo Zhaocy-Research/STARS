@@ -35,10 +35,13 @@ tqdm
 umap-learn  
 
 **1.3 How to install STARS:**  
-(1) cd STARS  
-(2) conda create --name STARS 
-(3) conda activate STARS  
+```
+(1) cd STARS
 
+(2) conda create --name STARS
+
+(3) conda activate STARS  
+```
 STARS can be installed via pip using the following command:
 
 ```bash
