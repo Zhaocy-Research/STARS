@@ -37,6 +37,12 @@ umap-learn
 
 **1.3 How to install STARS:**  
 
+To download **STARS**, use the following command:
+
+```bash
+git clone https://github.com/Zhaocy-Research/STARS.git
+```
+
 Before installing STARS, ensure that you have **StarDist** installed in your environment. If not, please follow the [installation instructions here](https://github.com/stardist/stardist).
 
 ```
