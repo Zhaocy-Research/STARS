@@ -48,7 +48,7 @@ Before installing STARS, ensure that you have **StarDist** installed in your env
 ```
 (1) cd STARS
 
-(2) conda create --name STARS
+(2) conda create --name STARS python=3.9
 
 (3) conda activate STARS  
 ```
