@@ -67,4 +67,4 @@ Data can be accessed via the following link. Please download the data and update
 
 **We provide an example notebook, visium_06.ipynb**, to implement the experimental results from the paper.
 
-https://pitt-my.sharepoint.com/:f:/g/personal/chz113_pitt_edu/EuGVB7q_xG1FtaTGj7PrW2wB6Rwd6PFKC76Eav3cHFHcCw?e=oXXiFb
+[[[https://pitt-my.sharepoint.com/:f:/g/personal/chz113_pitt_edu/EuGVB7q_xG1FtaTGj7PrW2wB6Rwd6PFKC76Eav3cHFHcCw?e=oXXiFb](https://pitt-my.sharepoint.com/:f:/g/personal/chz113_pitt_edu/EuGVB7q_xG1FtaTGj7PrW2wB6Rwd6PFKC76Eav3cHFHcCw?e=byoa1P)](https://pitt-my.sharepoint.com/:f:/g/personal/chz113_pitt_edu/EuGVB7q_xG1FtaTGj7PrW2wB6Rwd6PFKC76Eav3cHFHcCw?e=byoa1P)](https://pitt-my.sharepoint.com/:f:/g/personal/chz113_pitt_edu/EuGVB7q_xG1FtaTGj7PrW2wB6Rwd6PFKC76Eav3cHFHcCw?e=HpwVoh)
