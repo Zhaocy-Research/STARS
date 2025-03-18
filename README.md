@@ -63,8 +63,26 @@ import stars_omics
 
 **2. Instructions: Demo on mouse lung data.** 
 
-Data can be accessed via the following link. Please download the data and update the data path in the code. The file name remains unchanged. For example, you can change the path from the example “/ix1/wchen/spatial/data” to your local machine’s directory (e.g., “/your/local/path/data”). Similarly, any other paths in the code should be modified in the same manner.
-
 **We provide an example notebook, visium_06.ipynb**, to implement the experimental results from the paper.
 
+## Data Access
 https://pitt-my.sharepoint.com/:f:/g/personal/chz113_pitt_edu/EuGVB7q_xG1FtaTGj7PrW2wBNVADPt_9ZBJGOxnu0zdMwg?e=X1XMC1
+
+Data can be accessed via the following link. Please download the data and update the data path in the code. The file name remains unchanged. For example, modify the code from:
+
+```python
+img_fold = os.path.join('/ix1/wchen/Shiyue/Projects/2023_06_Influ_Mouse_Lung_ST/RawData/Fastq/Alcorn_Visium_FFPE_Images/', name + '.TIF')
+```
+
+to
+
+```python
+img_fold = os.path.join('/your/local/path/', name, '.TIF')
+```
+
+*Note:* The path `/ix1/wchen/Shiyue/Projects/2023_06_Influ_Mouse_Lung_ST/RawData/Fastq/Alcorn_Visium_FFPE_Images/` is just an example. If your local data is stored in a different directory, update the code accordingly by following the same pattern.
+
+
+
+
+
