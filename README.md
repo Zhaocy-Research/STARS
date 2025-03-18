@@ -80,7 +80,7 @@ to
 img_fold = os.path.join('/your/local/path/', name, '.TIF')
 ```
 
-*Note:* The path `/ix1/wchen/Shiyue/Projects/2023_06_Influ_Mouse_Lung_ST/RawData/Fastq/Alcorn_Visium_FFPE_Images/` is just an example. If your local data is stored in a different directory, update the code accordingly by following the same pattern.
+*Note:* The path `/ix1/wchen//spatial/Lung/Lung_new/SpaceRanger_output/` is just an example. Other link paths used in the code should also be modified to your local path in the same manner.
 
 
 
