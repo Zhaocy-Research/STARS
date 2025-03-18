@@ -61,6 +61,9 @@ After installation, you can import the package in Python as:
 import stars_omics
 ```
 
-**2. Instructions: Demo on mouse lung data.**  
+**2. Instructions: Demo on mouse lung data.** 
+Data can be accessed via the following link. Please download the data and update the data path in the code. The file name remains unchanged. For example, you can change the path from the example “/ix1/wchen/spatial/data” to your local machine’s directory (e.g., “/your/local/path/data”). Similarly, any other paths in the code should be modified in the same manner.
+
 We provide an example notebook, **visium_06.ipynb**, to implement the experimental results from the paper.
 
+https://pitt-my.sharepoint.com/:f:/g/personal/chz113_pitt_edu/EuGVB7q_xG1FtaTGj7PrW2wB6Rwd6PFKC76Eav3cHFHcCw?e=oXXiFb
