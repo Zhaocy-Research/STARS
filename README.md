@@ -63,7 +63,7 @@ import stars_omics
 
 ## 2. Instructions: Demo on mouse lung data.
 
-##We provide an example notebook, visium_06.ipynb, to implement the experimental results from the paper.
+## We provide an example notebook, **visium_06.ipynb**, to implement the experimental results from the paper.
 
 ## Data Access
 https://pitt-my.sharepoint.com/:f:/g/personal/chz113_pitt_edu/EuGVB7q_xG1FtaTGj7PrW2wBNVADPt_9ZBJGOxnu0zdMwg?e=X1XMC1
