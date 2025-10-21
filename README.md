@@ -81,8 +81,19 @@ img_fold = os.path.join('/your/local/path/', name, '.TIF')
 ```
 
 *Note:* The path `/ix1/wchen/Shiyue/Projects/2023_06_Influ_Mouse_Lung_ST/RawData/Fastq/Alcorn_Visium_FFPE_Images/` is just an example. Other data paths used in the code should also be modified to your local path in the same manner.
+###3. Instructions: Demo on nuclei segmentation.
+## We provide an example notebook, **nuclei_segmentation.ipynb**, to implement the experimental results from the paper.
+## Data Access
+ https://www.10xgenomics.com/products/visium-hd-spatial-gene-expression/dataset-human-crc
 
+For nuclei segmentation, we use StarDist. Since StarDist requires TensorFlow to utilize the GPU version, it may cause conflicts with our current model. Therefore, we recommend that the user follow the original installation guidelines provided by the StarDist package before running our notebook (https://github.com/stardist/stardist).
+###4. Instructions: Demo on CRC data.
+## We provide an example notebook, **CRC.ipynb**, to implement the experimental results from the paper.
+## Data Access
+ https://www.10xgenomics.com/products/visium-hd-spatial-gene-expression/dataset-human-crc
 
+Please download the data and update the data path in the code as shown in Instruction 2. 
+ 
 
 
 
